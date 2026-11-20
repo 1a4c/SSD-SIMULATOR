@@ -1,0 +1,6 @@
+{
+  "name": "SSD-Arch Lab",
+  "description": "Interactive 7-layer next-generation SSD controller architecture, formal mathematical state-transfer simulator, and 3D NAND self-healing telemetry dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
